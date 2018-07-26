@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">License Check</string>
+    <string name="unlicensed_dialog_title">Unlicensed copy</string>
+    <string name="unlicensed_dialog_retry_body">Unlicensed Retry</string>
+    <string name="unlicensed_dialog_body">Unlicensed dialog body</string>
+    <string name="retry_button">Retry</string>
+    <string name="buy_button">Buy button</string>
+    <string name="quit_button">Quit Button</string>
+    <string name="checking_license">Please wait while checking license</string>
+    <string name="allow">Allow access granted</string>
+    <string name="dont_allow">License failed dont allow</string>
+    <string name="application_error">Application error</string>
+</resources>
